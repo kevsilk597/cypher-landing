@@ -25,4 +25,4 @@ npm run dev
 ## Notes
 
 - This repository is intentionally focused on the landing experience.
-- Core product implementation and technical workflow logic live in the main `cipher` repository.
+- Core product implementation and technical workflow logic live in the main `cypher` repository.
