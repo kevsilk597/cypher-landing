@@ -12,7 +12,7 @@ export interface InsightCard {
 export interface FunnelState {
   name: string;
   labels: DataLabel[];
-  connected: number[]; // indices of labels that get gold bezier lines
+  connected: number[]; // indices of labels that get accent bezier lines
   insight: InsightCard;
 }
 
