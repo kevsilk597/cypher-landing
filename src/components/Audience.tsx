@@ -56,7 +56,7 @@ export default function Audience() {
         <p
           className="text-[18px] md:text-xl leading-relaxed"
           style={{
-            fontFamily: "'Playfair Display', serif",
+            fontFamily: "'DM Serif Display', Georgia, serif",
             color: "rgba(245,243,239,0.6)",
             fontStyle: "italic",
           }}

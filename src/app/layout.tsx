@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Cypher | Sports intelligence for producers",
+  title: "Cipher | Sports Intelligence Engine",
   description:
-    "Walk in with the angle before anyone else sees it. Cypher surfaces converging signals and turns them into pitch-ready takes.",
+    "The sports intelligence engine that tracks what nobody's watching — and surfaces the stories nobody else can find.",
 };
 
 export default function RootLayout({
@@ -22,11 +22,11 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Inter:wght@400;500;600;700;800&display=swap"
+          href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="antialiased">
+      <body className="antialiased bg-background text-foreground">
         {children}
       </body>
     </html>

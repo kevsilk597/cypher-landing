@@ -33,7 +33,7 @@ export const colors = {
 } as const;
 
 export const typography = {
-  serif:  "'Playfair Display', serif",
+  serif:  "'DM Serif Display', Georgia, serif",
   sans:   "'Source Sans 3', system-ui, sans-serif",
   mono:   "'JetBrains Mono', monospace",
 } as const;

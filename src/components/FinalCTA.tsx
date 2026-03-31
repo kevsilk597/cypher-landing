@@ -11,7 +11,7 @@ export default function FinalCTA() {
           <p
             className="text-[13px] md:text-[14.5px] italic max-w-xl mx-auto leading-relaxed"
             style={{
-              fontFamily: "'Playfair Display', serif",
+              fontFamily: "'DM Serif Display', Georgia, serif",
               color: "rgba(184,149,42,0.45)",
             }}
           >

@@ -320,7 +320,7 @@ export default function Delivery() {
                   className="text-2xl font-bold mb-1"
                   style={{
                     color: "#D4B245",
-                    fontFamily: "'Playfair Display', serif",
+                    fontFamily: "'DM Serif Display', Georgia, serif",
                   }}
                 >
                   {stat.num}
